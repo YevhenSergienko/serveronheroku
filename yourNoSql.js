@@ -56,3 +56,4 @@ class YourNoSql {
 module.exports = {
   dbClient: new YourNoSql(),
 };
+
