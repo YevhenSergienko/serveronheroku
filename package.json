@@ -1,0 +1,25 @@
+{
+  "name": "serveronheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YevhenSergienko/serveronheroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YevhenSergienko/serveronheroku/issues"
+  },
+  "homepage": "https://github.com/YevhenSergienko/serveronheroku#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mustache": "4.2.0"
+  }
+}
